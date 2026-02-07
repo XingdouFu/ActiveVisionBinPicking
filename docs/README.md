@@ -1,6 +1,6 @@
 # The web pages of active vision bin picking project
 
-Visit the web page at 
+Visit the web page at https://xingdoufu.github.io/ActiveVisionBinPicking/
 
 
 ## Acknowledgments
