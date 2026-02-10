@@ -1,5 +1,6 @@
 # The web pages of active vision bin picking project
 Check details at https://xingdoufu.github.io/ActiveVisionBinPicking/
+Unfortunately, the source code cannot be shared since it is a reseach work in industry.
 
 # Title / Authors
 <p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p>
