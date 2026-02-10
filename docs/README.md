@@ -1,11 +1,10 @@
 # The web pages of active vision bin picking project
 Check details at https://xingdoufu.github.io/ActiveVisionBinPicking/
 
-# Title
-<p>The first high-speed "Active Vision Bin Picking" in the world </p>
-
+# Title / Authors
+<p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p>
 <p>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</p>
-# Authors
+
 <p>Xingdou Fu*, Lin Miao Yasuhiro Ohnishi Yuki Hasegawa Masaki Suwa</p>
 <p>OMRON corporation</p>
 <p>*Corresponding author: write2fxd@gmail.com</p>
