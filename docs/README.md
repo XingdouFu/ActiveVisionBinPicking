@@ -6,11 +6,11 @@
 <p>The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</p>
 <p><strong>Xingdou Fu*, Lin Miao, Yasuhiro Ohnishi, Yuki Hadegawa, Masaki Suwa</strong></p>
 <p><strong>OMRON corporation</strong></p>
-<p>*Corresponding author: write2fxd@gmail.com</p>
 </div>
 
 <div>
-Check more details(Paper/Video/Poster...) at https://xingdoufu.github.io/ActiveVisionBinPicking/  
+<p>*Corresponding author:  <a href="mailto:write2fxd@gmail.com">write2fxd@gmail.com</a></p>       
+<p>Check more details(Paper/Video/Poster...) at https://xingdoufu.github.io/ActiveVisionBinPicking/</p>  
 </div>
 
 # Abstract
