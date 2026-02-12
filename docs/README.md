@@ -1,4 +1,3 @@
-# The web pages of active vision bin picking project
 Check more details(Paper/Video/Poster...) at https://xingdoufu.github.io/ActiveVisionBinPicking/
 
 <div align="center">
