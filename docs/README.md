@@ -24,8 +24,26 @@ To our best knowledge, our solution differs from any existing ones and is the fi
 <div align="center">
         <h2>
          Conventional approaches versus ours
-       </h2>
+        </h2>
         <img src="static/images/carousel3.jpg" alt="Conventional approaches versus ours"/>
+        
+        <h2>
+        Our approach
+        </h2>
+        <img src="static/images/carousel4.jpg" alt=" Our approach">
+        
+       <h2>
+        Experiment device (OMRON adept s650/Active vision 3D sensor)
+        </h2>      
+        <img src="static/images/carousel5.jpg" alt="Experiment device"> 
+        
+        <h2>
+        Experiment (target objects)
+        </h2>
+        <img src="static/images/carousel6.jpg" alt="Experiment (target objects)">
+        
+      
+        
 </div>
 
 
