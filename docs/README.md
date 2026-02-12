@@ -27,44 +27,6 @@ To our best knowledge, our solution differs from any existing ones and is the fi
         <img src="static/images/carousel5.jpg" alt="Experiment device"> 
         <img src="static/images/carousel6.jpg" alt="Experiment (target objects)">
 </div>
-<!-- Image carousel -->
-<section class="hero is-small">
-  <div class="hero-body">
-    <div class="container">
-      <div id="results-carousel" class="carousel results-carousel">
-      <div class="item">
-        <!-- Your image here -->
-        <h2 class="subtitle has-text-centered">
-         Conventional approaches versus ours.
-       </h2>
-        <img src="static/images/carousel3.jpg" alt="Third research result visualization" loading="lazy"/>
-     </div>
-     <div class="item">
-      <!-- Your image here -->
-      <h2 class="subtitle has-text-centered">
-        Our approach
-      </h2>
-      <img src="static/images/carousel4.jpg" alt="Fourth research result visualization" loading="lazy"/>
-    </div>
-    <div class="item">
-      <!-- Your image here -->
-      <h2 class="subtitle has-text-centered">
-        Experiment device (OMRON adept s650/Active vision 3D sensor)
-      </h2>      
-      <img src="static/images/carousel5.jpg" alt="Fifth research result visualization" loading="lazy"/>
-    </div>
-     <div class="item">    
-      <!-- Your image here -->
-      <h2 class="subtitle has-text-centered">
-        Experiment (target objects)
-      </h2>
-      <img src="static/images/carousel6.jpg" alt="Sixth research result visualization" loading="lazy"/>
-    </div>
-  </div>
-</div>
-</div>
-</section>
-<!-- End image carousel -->
 
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
