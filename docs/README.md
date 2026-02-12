@@ -5,7 +5,7 @@
 <h2><p><strong>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</strong></p></h3>
 <p>The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</p>
 <p><strong>Xingdou Fu*, Lin Miao, Yasuhiro Ohnishi, Yuki Hadegawa, Masaki Suwa</strong></p>
-<p>OMRON corporation</p>
+<p><strong>OMRON corporation</strong></p>
 <p>*Corresponding author: write2fxd@gmail.com</p>
 </div>
 
