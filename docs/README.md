@@ -9,8 +9,8 @@
 </div>
 
 <div>
-<p>*Corresponding author:  <a href="mailto:write2fxd@gmail.com">write2fxd@gmail.com</a></p>       
-<p>Check more details(Paper/Video/Poster...) at https://xingdoufu.github.io/ActiveVisionBinPicking/</p>  
+<span>*Corresponding author:  <a href="mailto:write2fxd@gmail.com">write2fxd@gmail.com</a></span><br>      
+<span>Check more details(Paper/Video/Poster...) at https://xingdoufu.github.io/ActiveVisionBinPicking/</span>  
 </div>
 
 # Abstract
