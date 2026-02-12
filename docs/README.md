@@ -22,17 +22,11 @@ To our best knowledge, our solution differs from any existing ones and is the fi
 # Overview
 
 <div align="center">
-
         <img src="static/images/carousel3.jpg" alt="Conventional approaches versus ours"/>
-
         <img src="static/images/carousel4.jpg" alt=" Our approach">
-    
         <img src="static/images/carousel5.jpg" alt="Experiment device"> 
-
         <img src="static/images/carousel6.jpg" alt="Experiment (target objects)">
 </div>
-
-
 <!-- Image carousel -->
 <section class="hero is-small">
   <div class="hero-body">
