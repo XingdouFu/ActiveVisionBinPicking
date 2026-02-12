@@ -1,15 +1,16 @@
 # The web pages of active vision bin picking project
-Check details at https://xingdoufu.github.io/ActiveVisionBinPicking/
+Please check more details at https://xingdoufu.github.io/ActiveVisionBinPicking/
 <p>Unfortunately, the source code cannot be shared since it is a reseach work in industry.</p>
 
 # Title / Authors
 <div style="text-align:center;">
-<h2><p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p></h2>
-<h3><p><strong>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</strong></p></h3>
+<h2 style="text-align: center;"><p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p></h2>
+<h3 style="text-align: center;"><p><strong>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</strong></p></h3>
 
-<p>Xingdou Fu*, Lin Miao Yasuhiro Ohnishi Yuki Hasegawa Masaki Suwa</p>
-<p>OMRON corporation</p>
-<p>*Corresponding author: write2fxd@gmail.com</p>
+<p style="text-align: center;">Xingdou Fu*, Lin Miao Yasuhiro Ohnishi Yuki Hasegawa Masaki Suwa</p>
+<p style="text-align: center;">The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</p>
+<p style="text-align: center;">OMRON corporation</p>
+<p style="text-align: center;">*Corresponding author: write2fxd@gmail.com</p>
 </div>
 
 
