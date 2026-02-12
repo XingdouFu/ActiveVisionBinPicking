@@ -18,7 +18,7 @@ Bin picking systems in factory automation usually face robustness issues caused 
 
 To our best knowledge, our solution differs from any existing ones and is the first try to build a high-speed active vision bin picking system.
 
-# Details
+# Overview
 <!-- Image carousel -->
 <section class="hero is-small">
   <div class="hero-body">
