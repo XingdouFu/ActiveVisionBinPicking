@@ -22,10 +22,9 @@ To our best knowledge, our solution differs from any existing ones and is the fi
 # Overview
 
 <div align="center">
-        <!-- Your image here -->
-        <h3">
+        <h2>
          Conventional approaches versus ours
-       </h3>
+       </h2>
         <img src="static/images/carousel3.jpg" alt="Conventional approaches versus ours"/>
 </div>
 
