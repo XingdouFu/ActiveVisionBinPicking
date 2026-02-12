@@ -1,13 +1,13 @@
 
 
 <div align="center">
-<h1 style="text-align: center;"><p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p></h2>
-<h2 style="text-align: center;"><p><strong>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</strong></p></h3>
+<h1><p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p></h2>
+<h2><p><strong>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</strong></p></h3>
 
-<p style="text-align: center;">Xingdou Fu*, Lin Miao Yasuhiro Ohnishi Yuki Hasegawa Masaki Suwa</p>
-<p style="text-align: center;">The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</p>
-<p style="text-align: center;">OMRON corporation</p>
-<p style="text-align: center;">*Corresponding author: write2fxd@gmail.com</p>
+<p>Xingdou Fu*, Lin Miao Yasuhiro Ohnishi Yuki Hasegawa Masaki Suwa</p>
+<p>The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</p>
+<p>OMRON corporation</p>
+<p>*Corresponding author: write2fxd@gmail.com</p>
 </div>
 
 <div>
@@ -20,6 +20,16 @@ Bin picking systems in factory automation usually face robustness issues caused 
 To our best knowledge, our solution differs from any existing ones and is the first try to build a high-speed active vision bin picking system.
 
 # Overview
+
+<div align="center">
+        <!-- Your image here -->
+        <h3">
+         Conventional approaches versus ours
+       </h3>
+        <img src="static/images/carousel3.jpg" alt="Conventional approaches versus ours"/>
+</div>
+
+
 <!-- Image carousel -->
 <section class="hero is-small">
   <div class="hero-body">
