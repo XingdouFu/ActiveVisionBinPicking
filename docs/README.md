@@ -3,8 +3,8 @@ Please check more details at https://xingdoufu.github.io/ActiveVisionBinPicking/
 <p>Unfortunately, the source code cannot be shared since it is a reseach work in industry.</p>
 
 # Title / Authors
-<center>
-<div style="text-align:center;">
+
+<div align="center">
 <h2 style="text-align: center;"><p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p></h2>
 <h3 style="text-align: center;"><p><strong>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</strong></p></h3>
 
@@ -13,7 +13,7 @@ Please check more details at https://xingdoufu.github.io/ActiveVisionBinPicking/
 <p style="text-align: center;">OMRON corporation</p>
 <p style="text-align: center;">*Corresponding author: write2fxd@gmail.com</p>
 </div>
-</center>
+
 
 
 # Abstract
