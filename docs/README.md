@@ -2,11 +2,9 @@
 Please check more details at https://xingdoufu.github.io/ActiveVisionBinPicking/
 <p>Unfortunately, the source code cannot be shared since it is a reseach work in industry.</p>
 
-# Title / Authors
-
 <div align="center">
-<h2 style="text-align: center;"><p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p></h2>
-<h3 style="text-align: center;"><p><strong>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</strong></p></h3>
+<h1 style="text-align: center;"><p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p></h2>
+<h2 style="text-align: center;"><p><strong>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</strong></p></h3>
 
 <p style="text-align: center;">Xingdou Fu*, Lin Miao Yasuhiro Ohnishi Yuki Hasegawa Masaki Suwa</p>
 <p style="text-align: center;">The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</p>
