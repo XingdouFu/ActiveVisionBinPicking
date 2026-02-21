@@ -4,7 +4,7 @@
 <p>The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</p>
 <p><strong>Xingdou Fu*, Lin Miao, Yasuhiro Ohnishi, Yuki Hadegawa, Masaki Suwa</strong></p>
 <p><strong>OMRON corporation</strong></p>
-<p>*Corresponding author:  <a href="mailto:write2fxd@gmail.com">write2fxd@gmail.com</p> 
+<p>*Corresponding author: Xingdou Fu（付 星斗） <a href="mailto:write2fxd@gmail.com">write2fxd@gmail.com</p> 
 </div>
 
 # Webpage of the project
