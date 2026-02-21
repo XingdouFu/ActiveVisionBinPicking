@@ -2,9 +2,16 @@
 <h1><p><strong>The first high-speed "Active Vision Bin Picking" in the world </strong></p></h2>
 <h2><p><strong>(A Low-Cost, High-Speed, and Robust Bin Picking System for Factory Automation Enabled by a Non-stop, Multi-View, and Active Vision Scheme)</strong></p></h2>
 <p><strong>Xingdou Fu*, Lin Miao, Yasuhiro Ohnishi, Yuki Hadegawa, Masaki Suwa</strong></p>
-<p><strong>OMRON corporation</strong></p><br>
-<p><small>The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</small></p>
-<p><small>*Corresponding author: Xingdou Fu（付 星斗） <a href="mailto:write2fxd@gmail.com">write2fxd@gmail.com<small></p> 
+<p><strong>OMRON corporation</strong></p>
+</div>
+        
+<div>
+  <small>The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</small>
+</div>
+<div>
+  <small>*Corresponding author: Xingdou Fu（付 星斗） 
+    <a href="mailto:write2fxd@gmail.com">write2fxd@gmail.com</a>
+  </small>
 </div>
 
 # Webpage of the project
