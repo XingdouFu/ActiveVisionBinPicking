@@ -18,10 +18,10 @@ To our best knowledge, our solution differs from any existing ones and is the fi
 # Overview
 
 <div align="center">
-        <img src="static/images/carousel3.jpg" alt="Conventional approaches versus ours"/>
-        <img src="static/images/carousel4.jpg" alt=" Our approach">
-        <img src="static/images/carousel5.jpg" alt="Experiment device"> 
-        <img src="static/images/carousel6.jpg" alt="Experiment (target objects)">
+        <p><img src="static/images/carousel3.jpg" alt="Conventional approaches versus ours"/></p> 
+        <p><img src="static/images/carousel4.jpg" alt=" Our approach"></p> 
+        <p><img src="static/images/carousel5.jpg" alt="Experiment device"></p> 
+        <p><img src="static/images/carousel6.jpg" alt="Experiment (target objects)"></p> 
 </div>
 
 ## Acknowledgments
